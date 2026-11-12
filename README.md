@@ -209,4 +209,4 @@ This repository serves as the official landing page for Hide ALL IP. The softwar
 **Get the most recent version of Hide ALL IP today!**
 
 ---
-**Last updated:** 2026-11-12 09:09:06 UTC
+**Last updated:** 2026-11-12 17:51:47 UTC
